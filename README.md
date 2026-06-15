@@ -10,11 +10,15 @@
 
 </div>
 
+---
+
 <div align="center">
 
-<img width="850" height="350" alt="1000019395" src="https://github.com/user-attachments/assets/eb466ad8-2325-4153-8acb-5e4febd7a7f7" />
+<img width="600" height="300" alt="1000019395" src="https://github.com/user-attachments/assets/eb466ad8-2325-4153-8acb-5e4febd7a7f7" />
 
 </div>
+
+---
 
 <div align="center">
 
