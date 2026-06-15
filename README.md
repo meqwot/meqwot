@@ -16,3 +16,12 @@
 
 </div>
 
+<div align="center">
+
+<details>
+<summary>INFO</summary>
+usually afk, please w2i and if we're not friends iwc ^-^ have not been in a good headspace recently. refer to my main github for more ponytown info.
+</details>
+
+</div>
+
